@@ -1,1 +1,2 @@
+Segue link do google colab com permissão de comentario
 https://colab.research.google.com/drive/1wwkvnS38kBpIbMSpQMiZm0BQNxuj5sV0?usp=sharing
